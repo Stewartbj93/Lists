@@ -1,5 +1,6 @@
 ﻿//Lists
 //Lists, like arrays, are a "Class" that holds a collection of data
+//Boo! I have invaded your comments -Maddie
 
 //Blank List
 //Unlike arrays, a blank list does NOT need to define how many spaces it has available
